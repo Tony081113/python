@@ -4,6 +4,7 @@ import time
 import ssl
 import logging
 import textwrap
+import os  # 新增导入 os 模块
 
 # 设置日志
 logging.basicConfig(filename='mqtt_news_publisher.log', level=logging.DEBUG, format='%(asctime)s:%(levelname)s:%(message)s')
@@ -60,7 +61,12 @@ client.on_publish = on_publish
 try:
     client.connect(broker_address, port=port)
     client.loop_start()
-    api_key = "2df35e323ffa46ef8f8d555395d55c9a"
+
+    # 从环境变量中获取 API 金钥
+    api_key = os.getenv("NEWS_API_KEY")
+    if not api_key:
+        logging.error("API key not found. Please set the NEWS_API_KEY environment variable.")
+        raise ValueError("API key not found")
 
     while True:
         news_content = get_news(api_key)

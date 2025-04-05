@@ -3,6 +3,7 @@ import time
 from datetime import datetime
 import ssl
 import logging
+import os  # 新增导入 os 模块
 
 # 设置日志
 logging.basicConfig(filename='mqtt_time_publisher.log', 
@@ -13,7 +14,11 @@ logging.basicConfig(filename='mqtt_time_publisher.log',
 broker_address = "io.adafruit.com"
 port = 8883
 username = "yayayayayaya"
-aio_key = "aio_Qphk35heUaR9hKB5A8m0hfJ4l376"
+aio_key = os.getenv("AIO_KEY")  # 从环境变量中获取 API 金钥
+if not aio_key:
+    logging.error("AIO key not found. Please set the AIO_KEY environment variable.")
+    raise ValueError("AIO key not found")
+
 topic = "yayayayayaya/feeds/mqtt-kebbi"
 
 # 创建一个 MQTT 客户端实例
