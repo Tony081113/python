@@ -1,0 +1,452 @@
+2025-03-16 19:38:01,646:DEBUG:Fetching news from API
+2025-03-16 19:38:01,652:DEBUG:Starting new HTTPS connection (1): newsapi.org:443
+2025-03-16 19:38:02,154:INFO:Connected successfully to Adafruit IO.
+2025-03-16 19:38:02,873:DEBUG:https://newsapi.org:443 "GET /v2/top-headlines?country=us&apiKey=2df35e323ffa46ef8f8d555395d55c9a HTTP/1.1" 200 None
+2025-03-16 19:38:02,875:DEBUG:Fetched news content: Title: I found the MagSafe accessory you didn't know you needed - especially for power users - ZDNet
+Description: Lexar's SSD is small, fast, and attaches to your iPhone with a snap - all without adding much bulk or weight.
+
+Title: Don・t let Putin ．play games・ over Ukraine ceasefire, says UK・s Starmer before key summit - CNN
+Description: Russian President Vladimir Putin will have to come to the table to negotiate peace in Ukraine ：sooner or later,； Britain・s Prime Minister Keir Starmer told a su...
+2025-03-16 19:38:02,878:DEBUG:Published news part: 1018 bytes
+2025-03-16 19:38:02,878:INFO:Message with mid 1 published successfully.
+2025-03-16 19:38:02,878:DEBUG:Published news part: 1017 bytes
+2025-03-16 19:38:02,878:INFO:Message with mid 2 published successfully.
+2025-03-16 19:38:02,878:DEBUG:Published news part: 1023 bytes
+2025-03-16 19:38:02,878:INFO:Message with mid 3 published successfully.
+2025-03-16 19:38:02,879:DEBUG:Published news part: 1017 bytes
+2025-03-16 19:38:02,879:INFO:Message with mid 4 published successfully.
+2025-03-16 19:38:02,879:DEBUG:Published news part: 244 bytes
+2025-03-16 19:38:02,879:INFO:Message with mid 5 published successfully.
+2025-03-16 19:43:09,263:DEBUG:Fetching news from API
+2025-03-16 19:43:09,267:DEBUG:Starting new HTTPS connection (1): newsapi.org:443
+2025-03-16 19:43:09,717:INFO:Connected successfully to Adafruit IO.
+2025-03-16 19:43:10,496:DEBUG:https://newsapi.org:443 "GET /v2/top-headlines?country=us&apiKey=2df35e323ffa46ef8f8d555395d55c9a HTTP/1.1" 200 None
+2025-03-16 19:43:10,499:DEBUG:Fetched news content: Title: I found the MagSafe accessory you didn't know you needed - especially for power users - ZDNet
+Description: Lexar's SSD is small, fast, and attaches to your iPhone with a snap - all without adding much bulk or weight.
+
+Title: Don・t let Putin ．play games・ over Ukraine ceasefire, says UK・s Starmer before key summit - CNN
+Description: Russian President Vladimir Putin will have to come to the table to negotiate peace in Ukraine ：sooner or later,； Britain・s Prime Minister Keir Starmer told a su...
+2025-03-16 19:43:10,502:DEBUG:Published news part: 1018 bytes
+2025-03-16 19:43:10,502:DEBUG:Published news part: 1017 bytes
+2025-03-16 19:43:10,502:DEBUG:Published news part: 1023 bytes
+2025-03-16 19:43:10,502:INFO:Message with mid 1 published successfully.
+2025-03-16 19:43:10,502:INFO:Message with mid 2 published successfully.
+2025-03-16 19:43:10,502:INFO:Message with mid 3 published successfully.
+2025-03-16 19:43:10,502:INFO:Message with mid 4 published successfully.
+2025-03-16 19:43:10,502:DEBUG:Published news part: 1017 bytes
+2025-03-16 19:43:10,502:DEBUG:Published news part: 244 bytes
+2025-03-16 19:43:10,503:INFO:Message with mid 5 published successfully.
+2025-03-22 22:45:42,938:DEBUG:Fetching news from API
+2025-03-22 22:45:42,942:DEBUG:Starting new HTTPS connection (1): newsapi.org:443
+2025-03-22 22:45:43,327:INFO:Connected successfully to Adafruit IO.
+2025-03-22 22:45:44,751:DEBUG:https://newsapi.org:443 "GET /v2/top-headlines?country=us&apiKey=2df35e323ffa46ef8f8d555395d55c9a HTTP/1.1" 200 None
+2025-03-22 22:45:44,755:DEBUG:Fetched news content: Title: Judge freezes firing of intel chief who's investigating Netanyahu's aides - Axios
+Description: No government in Israel's history has ever fired the head of the Shin Bet domestic intelligence agency.
+
+Title: March Madness 2025 scores, results: McNeese, Drake deliver upsets, break brackets on Day 1 of NCAA tournament - Yahoo Sports
+Description: The opening day of March Madness delivered at least two notable upsets.
+
+Title: ．Severance・ Renewed for Season 3 at Apple TV+ - Variety
+Description:...
+2025-03-22 22:45:44,759:DEBUG:Published news part: 1020 bytes
+2025-03-22 22:45:44,760:DEBUG:Published news part: 1013 bytes
+2025-03-22 22:45:44,760:DEBUG:Published news part: 1020 bytes
+2025-03-22 22:45:44,760:INFO:Message with mid 1 published successfully.
+2025-03-22 22:45:44,760:DEBUG:Published news part: 1018 bytes
+2025-03-22 22:45:44,761:INFO:Message with mid 2 published successfully.
+2025-03-22 22:45:44,761:DEBUG:Published news part: 715 bytes
+2025-03-22 22:45:44,762:INFO:Message with mid 3 published successfully.
+2025-03-22 22:45:44,762:INFO:Message with mid 4 published successfully.
+2025-03-22 22:45:44,762:INFO:Message with mid 5 published successfully.
+2025-03-22 22:55:44,762:DEBUG:Fetching news from API
+2025-03-22 22:55:44,763:DEBUG:Starting new HTTPS connection (1): newsapi.org:443
+2025-03-22 22:55:45,912:DEBUG:https://newsapi.org:443 "GET /v2/top-headlines?country=us&apiKey=2df35e323ffa46ef8f8d555395d55c9a HTTP/1.1" 200 None
+2025-03-22 22:55:45,921:DEBUG:Fetched news content: Title: Judge freezes firing of intel chief who's investigating Netanyahu's aides - Axios
+Description: No government in Israel's history has ever fired the head of the Shin Bet domestic intelligence agency.
+
+Title: March Madness 2025 scores, results: McNeese, Drake deliver upsets, break brackets on Day 1 of NCAA tournament - Yahoo Sports
+Description: The opening day of March Madness delivered at least two notable upsets.
+
+Title: ．Severance・ Renewed for Season 3 at Apple TV+ - Variety
+Description:...
+2025-03-22 22:55:45,924:DEBUG:Published news part: 1020 bytes
+2025-03-22 22:55:45,924:DEBUG:Published news part: 1013 bytes
+2025-03-22 22:55:45,924:INFO:Message with mid 6 published successfully.
+2025-03-22 22:55:45,924:DEBUG:Published news part: 1020 bytes
+2025-03-22 22:55:45,925:INFO:Message with mid 7 published successfully.
+2025-03-22 22:55:45,925:DEBUG:Published news part: 1018 bytes
+2025-03-22 22:55:45,925:INFO:Message with mid 8 published successfully.
+2025-03-22 22:55:45,925:DEBUG:Published news part: 715 bytes
+2025-03-22 22:55:45,925:INFO:Message with mid 9 published successfully.
+2025-03-22 22:55:45,926:INFO:Message with mid 10 published successfully.
+2025-03-22 23:05:45,926:DEBUG:Fetching news from API
+2025-03-22 23:05:45,928:DEBUG:Starting new HTTPS connection (1): newsapi.org:443
+2025-03-22 23:05:47,526:DEBUG:https://newsapi.org:443 "GET /v2/top-headlines?country=us&apiKey=2df35e323ffa46ef8f8d555395d55c9a HTTP/1.1" 200 None
+2025-03-22 23:05:47,560:DEBUG:Fetched news content: Title: Judge freezes firing of intel chief who's investigating Netanyahu's aides - Axios
+Description: No government in Israel's history has ever fired the head of the Shin Bet domestic intelligence agency.
+
+Title: March Madness 2025 scores, results: McNeese, Drake deliver upsets, break brackets on Day 1 of NCAA tournament - Yahoo Sports
+Description: The opening day of March Madness delivered at least two notable upsets.
+
+Title: ．Severance・ Renewed for Season 3 at Apple TV+ - Variety
+Description:...
+2025-03-22 23:05:47,564:DEBUG:Published news part: 1020 bytes
+2025-03-22 23:05:47,564:INFO:Message with mid 11 published successfully.
+2025-03-22 23:05:47,564:DEBUG:Published news part: 1013 bytes
+2025-03-22 23:05:47,565:INFO:Message with mid 12 published successfully.
+2025-03-22 23:05:47,565:DEBUG:Published news part: 1020 bytes
+2025-03-22 23:05:47,565:INFO:Message with mid 13 published successfully.
+2025-03-22 23:05:47,565:DEBUG:Published news part: 1018 bytes
+2025-03-22 23:05:47,565:INFO:Message with mid 14 published successfully.
+2025-03-22 23:05:47,566:DEBUG:Published news part: 715 bytes
+2025-03-22 23:05:47,566:INFO:Message with mid 15 published successfully.
+2025-03-22 23:06:41,383:WARNING:Unexpected disconnection.
+2025-03-22 23:06:50,217:INFO:Connected successfully to Adafruit IO.
+2025-03-22 23:15:47,566:DEBUG:Fetching news from API
+2025-03-22 23:15:47,567:DEBUG:Starting new HTTPS connection (1): newsapi.org:443
+2025-03-22 23:15:49,190:DEBUG:https://newsapi.org:443 "GET /v2/top-headlines?country=us&apiKey=2df35e323ffa46ef8f8d555395d55c9a HTTP/1.1" 200 None
+2025-03-22 23:15:49,191:DEBUG:Fetched news content: Title: Live updates: London・s Heathrow Airport closes after substation fire, upending global travel - The Washington Post
+Description: One of the world・s busiest airports will be shut down all day Friday due to a fire at a substation that supplies it with power.
+
+Title: Why Anthropic・s Claude still hasn・t beaten Pok\xe9mon - Ars Technica
+Description: Weeks later, Sonnet・s ：reasoning； model is struggling with a game designed for children.
+
+Title: Musk Tells Tesla Employees Hang On to Stock After 50%...
+2025-03-22 23:15:49,195:DEBUG:Published news part: 1023 bytes
+2025-03-22 23:15:49,196:DEBUG:Published news part: 1023 bytes
+2025-03-22 23:15:49,196:INFO:Message with mid 16 published successfully.
+2025-03-22 23:15:49,196:DEBUG:Published news part: 1024 bytes
+2025-03-22 23:15:49,196:INFO:Message with mid 17 published successfully.
+2025-03-22 23:15:49,196:DEBUG:Published news part: 1021 bytes
+2025-03-22 23:15:49,196:INFO:Message with mid 18 published successfully.
+2025-03-22 23:15:49,197:DEBUG:Published news part: 164 bytes
+2025-03-22 23:15:49,197:INFO:Message with mid 19 published successfully.
+2025-03-22 23:15:49,197:INFO:Message with mid 20 published successfully.
+2025-03-22 23:25:49,198:DEBUG:Fetching news from API
+2025-03-22 23:25:49,201:DEBUG:Starting new HTTPS connection (1): newsapi.org:443
+2025-03-22 23:25:50,379:DEBUG:https://newsapi.org:443 "GET /v2/top-headlines?country=us&apiKey=2df35e323ffa46ef8f8d555395d55c9a HTTP/1.1" 200 None
+2025-03-22 23:25:50,380:DEBUG:Fetched news content: Title: Live updates: London・s Heathrow Airport closes after substation fire, upending global travel - The Washington Post
+Description: One of the world・s busiest airports will be shut down all day Friday due to a fire at a substation that supplies it with power.
+
+Title: Why Anthropic・s Claude still hasn・t beaten Pok\xe9mon - Ars Technica
+Description: Weeks later, Sonnet・s ：reasoning； model is struggling with a game designed for children.
+
+Title: Musk Tells Tesla Employees Hang On to Stock After 50%...
+2025-03-22 23:25:50,383:DEBUG:Published news part: 1023 bytes
+2025-03-22 23:25:50,384:INFO:Message with mid 21 published successfully.
+2025-03-22 23:25:50,384:DEBUG:Published news part: 1023 bytes
+2025-03-22 23:25:50,384:INFO:Message with mid 22 published successfully.
+2025-03-22 23:25:50,384:DEBUG:Published news part: 1024 bytes
+2025-03-22 23:25:50,385:DEBUG:Published news part: 1021 bytes
+2025-03-22 23:25:50,385:INFO:Message with mid 23 published successfully.
+2025-03-22 23:25:50,385:DEBUG:Published news part: 164 bytes
+2025-03-22 23:25:50,385:INFO:Message with mid 24 published successfully.
+2025-03-22 23:25:50,386:INFO:Message with mid 25 published successfully.
+2025-03-22 23:35:50,386:DEBUG:Fetching news from API
+2025-03-22 23:35:50,392:DEBUG:Starting new HTTPS connection (1): newsapi.org:443
+2025-03-22 23:35:51,585:DEBUG:https://newsapi.org:443 "GET /v2/top-headlines?country=us&apiKey=2df35e323ffa46ef8f8d555395d55c9a HTTP/1.1" 200 None
+2025-03-22 23:35:51,587:DEBUG:Fetched news content: Title: Live updates: London・s Heathrow Airport closes after substation fire, upending global travel - The Washington Post
+Description: One of the world・s busiest airports will be shut down all day Friday due to a fire at a substation that supplies it with power.
+
+Title: Why Anthropic・s Claude still hasn・t beaten Pok\xe9mon - Ars Technica
+Description: Weeks later, Sonnet・s ：reasoning； model is struggling with a game designed for children.
+
+Title: Musk Tells Tesla Employees Hang On to Stock After 50%...
+2025-03-22 23:35:51,594:DEBUG:Published news part: 1023 bytes
+2025-03-22 23:35:51,595:DEBUG:Published news part: 1023 bytes
+2025-03-22 23:35:51,595:INFO:Message with mid 26 published successfully.
+2025-03-22 23:35:51,595:DEBUG:Published news part: 1024 bytes
+2025-03-22 23:35:51,596:INFO:Message with mid 27 published successfully.
+2025-03-22 23:35:51,596:DEBUG:Published news part: 1021 bytes
+2025-03-22 23:35:51,597:INFO:Message with mid 28 published successfully.
+2025-03-22 23:35:51,597:DEBUG:Published news part: 164 bytes
+2025-03-22 23:35:51,597:INFO:Message with mid 29 published successfully.
+2025-03-22 23:35:51,598:INFO:Message with mid 30 published successfully.
+2025-03-22 23:45:51,598:DEBUG:Fetching news from API
+2025-03-22 23:45:51,601:DEBUG:Starting new HTTPS connection (1): newsapi.org:443
+2025-03-22 23:45:52,972:DEBUG:https://newsapi.org:443 "GET /v2/top-headlines?country=us&apiKey=2df35e323ffa46ef8f8d555395d55c9a HTTP/1.1" 200 None
+2025-03-22 23:45:52,975:DEBUG:Fetched news content: Title: Live updates: London・s Heathrow Airport closes after substation fire, upending global travel - The Washington Post
+Description: One of the world・s busiest airports will be shut down all day Friday due to a fire at a substation that supplies it with power.
+
+Title: Why Anthropic・s Claude still hasn・t beaten Pok\xe9mon - Ars Technica
+Description: Weeks later, Sonnet・s ：reasoning； model is struggling with a game designed for children.
+
+Title: Musk Tells Tesla Employees Hang On to Stock After 50%...
+2025-03-22 23:45:52,982:DEBUG:Published news part: 1023 bytes
+2025-03-22 23:45:52,983:DEBUG:Published news part: 1023 bytes
+2025-03-22 23:45:52,983:INFO:Message with mid 31 published successfully.
+2025-03-22 23:45:52,983:DEBUG:Published news part: 1024 bytes
+2025-03-22 23:45:52,983:INFO:Message with mid 32 published successfully.
+2025-03-22 23:45:52,984:DEBUG:Published news part: 1021 bytes
+2025-03-22 23:45:52,984:INFO:Message with mid 33 published successfully.
+2025-03-22 23:45:52,985:DEBUG:Published news part: 164 bytes
+2025-03-22 23:45:52,985:INFO:Message with mid 34 published successfully.
+2025-03-22 23:45:52,986:INFO:Message with mid 35 published successfully.
+2025-03-22 23:55:52,986:DEBUG:Fetching news from API
+2025-03-22 23:55:52,988:DEBUG:Starting new HTTPS connection (1): newsapi.org:443
+2025-03-22 23:55:54,195:DEBUG:https://newsapi.org:443 "GET /v2/top-headlines?country=us&apiKey=2df35e323ffa46ef8f8d555395d55c9a HTTP/1.1" 200 None
+2025-03-22 23:55:54,196:DEBUG:Fetched news content: Title: Live updates: London・s Heathrow Airport closes after substation fire, upending global travel - The Washington Post
+Description: One of the world・s busiest airports will be shut down all day Friday due to a fire at a substation that supplies it with power.
+
+Title: Why Anthropic・s Claude still hasn・t beaten Pok\xe9mon - Ars Technica
+Description: Weeks later, Sonnet・s ：reasoning； model is struggling with a game designed for children.
+
+Title: Musk Tells Tesla Employees Hang On to Stock After 50%...
+2025-03-22 23:55:54,198:DEBUG:Published news part: 1023 bytes
+2025-03-22 23:55:54,198:INFO:Message with mid 36 published successfully.
+2025-03-22 23:55:54,199:DEBUG:Published news part: 1023 bytes
+2025-03-22 23:55:54,199:INFO:Message with mid 37 published successfully.
+2025-03-22 23:55:54,199:DEBUG:Published news part: 1024 bytes
+2025-03-22 23:55:54,199:INFO:Message with mid 38 published successfully.
+2025-03-22 23:55:54,199:DEBUG:Published news part: 1021 bytes
+2025-03-22 23:55:54,200:INFO:Message with mid 39 published successfully.
+2025-03-22 23:55:54,200:DEBUG:Published news part: 164 bytes
+2025-03-22 23:55:54,200:INFO:Message with mid 40 published successfully.
+2025-03-23 00:03:27,350:DEBUG:Fetching news from API
+2025-03-23 00:03:27,354:DEBUG:Starting new HTTPS connection (1): newsapi.org:443
+2025-03-23 00:03:27,863:INFO:Connected successfully to Adafruit IO.
+2025-03-23 00:03:28,500:DEBUG:https://newsapi.org:443 "GET /v2/top-headlines?country=us&apiKey=2df35e323ffa46ef8f8d555395d55c9a HTTP/1.1" 200 None
+2025-03-23 00:03:28,509:DEBUG:Fetched news content: Title: Live updates: London・s Heathrow Airport closes after substation fire, upending global travel - The Washington Post
+Description: One of the world・s busiest airports will be shut down all day Friday due to a fire at a substation that supplies it with power.
+
+Title: Why Anthropic・s Claude still hasn・t beaten Pok\xe9mon - Ars Technica
+Description: Weeks later, Sonnet・s ：reasoning； model is struggling with a game designed for children.
+
+Title: Musk Tells Tesla Employees Hang On to Stock After 50%...
+2025-03-23 00:03:28,512:DEBUG:Published news part: 1023 bytes
+2025-03-23 00:03:28,512:DEBUG:Published news part: 1023 bytes
+2025-03-23 00:03:28,512:DEBUG:Published news part: 1024 bytes
+2025-03-23 00:03:28,512:DEBUG:Published news part: 1021 bytes
+2025-03-23 00:03:28,512:DEBUG:Published news part: 164 bytes
+2025-03-23 00:03:28,512:INFO:Message with mid 1 published successfully.
+2025-03-23 00:03:28,513:INFO:Message with mid 2 published successfully.
+2025-03-23 00:03:28,513:INFO:Message with mid 3 published successfully.
+2025-03-23 00:03:28,513:INFO:Message with mid 4 published successfully.
+2025-03-23 00:03:28,513:INFO:Message with mid 5 published successfully.
+2025-03-23 00:04:31,062:WARNING:Unexpected disconnection.
+2025-03-23 00:04:39,778:INFO:Connected successfully to Adafruit IO.
+2025-03-23 00:13:28,513:DEBUG:Fetching news from API
+2025-03-23 00:13:28,516:DEBUG:Starting new HTTPS connection (1): newsapi.org:443
+2025-03-23 00:13:29,698:DEBUG:https://newsapi.org:443 "GET /v2/top-headlines?country=us&apiKey=2df35e323ffa46ef8f8d555395d55c9a HTTP/1.1" 200 None
+2025-03-23 00:13:29,699:DEBUG:Fetched news content: Title: Live updates: London・s Heathrow Airport closes after substation fire, upending global travel - The Washington Post
+Description: One of the world・s busiest airports will be shut down all day Friday due to a fire at a substation that supplies it with power.
+
+Title: Why Anthropic・s Claude still hasn・t beaten Pok\xe9mon - Ars Technica
+Description: Weeks later, Sonnet・s ：reasoning； model is struggling with a game designed for children.
+
+Title: Musk Tells Tesla Employees Hang On to Stock After 50%...
+2025-03-23 00:13:29,702:DEBUG:Published news part: 1023 bytes
+2025-03-23 00:13:29,703:DEBUG:Published news part: 1023 bytes
+2025-03-23 00:13:29,703:DEBUG:Published news part: 1024 bytes
+2025-03-23 00:13:29,703:DEBUG:Published news part: 1021 bytes
+2025-03-23 00:13:29,703:INFO:Message with mid 6 published successfully.
+2025-03-23 00:13:29,703:DEBUG:Published news part: 164 bytes
+2025-03-23 00:13:29,703:INFO:Message with mid 7 published successfully.
+2025-03-23 00:13:29,704:INFO:Message with mid 8 published successfully.
+2025-03-23 00:13:29,704:INFO:Message with mid 9 published successfully.
+2025-03-23 00:13:29,704:INFO:Message with mid 10 published successfully.
+2025-03-23 00:23:29,704:DEBUG:Fetching news from API
+2025-03-23 00:23:29,706:DEBUG:Starting new HTTPS connection (1): newsapi.org:443
+2025-03-23 00:23:30,828:DEBUG:https://newsapi.org:443 "GET /v2/top-headlines?country=us&apiKey=2df35e323ffa46ef8f8d555395d55c9a HTTP/1.1" 200 None
+2025-03-23 00:23:30,829:DEBUG:Fetched news content: Title: Live updates: London・s Heathrow Airport closes after substation fire, upending global travel - The Washington Post
+Description: One of the world・s busiest airports will be shut down all day Friday due to a fire at a substation that supplies it with power.
+
+Title: Why Anthropic・s Claude still hasn・t beaten Pok\xe9mon - Ars Technica
+Description: Weeks later, Sonnet・s ：reasoning； model is struggling with a game designed for children.
+
+Title: Musk Tells Tesla Employees Hang On to Stock After 50%...
+2025-03-23 00:23:30,831:DEBUG:Published news part: 1023 bytes
+2025-03-23 00:23:30,831:DEBUG:Published news part: 1023 bytes
+2025-03-23 00:23:30,831:INFO:Message with mid 11 published successfully.
+2025-03-23 00:23:30,832:DEBUG:Published news part: 1024 bytes
+2025-03-23 00:23:30,832:INFO:Message with mid 12 published successfully.
+2025-03-23 00:23:30,832:DEBUG:Published news part: 1021 bytes
+2025-03-23 00:23:30,832:INFO:Message with mid 13 published successfully.
+2025-03-23 00:23:30,832:DEBUG:Published news part: 164 bytes
+2025-03-23 00:23:30,833:INFO:Message with mid 14 published successfully.
+2025-03-23 00:23:30,833:INFO:Message with mid 15 published successfully.
+2025-03-23 00:33:30,834:DEBUG:Fetching news from API
+2025-03-23 00:33:30,836:DEBUG:Starting new HTTPS connection (1): newsapi.org:443
+2025-03-23 00:33:31,949:DEBUG:https://newsapi.org:443 "GET /v2/top-headlines?country=us&apiKey=2df35e323ffa46ef8f8d555395d55c9a HTTP/1.1" 200 None
+2025-03-23 00:33:31,950:DEBUG:Fetched news content: Title: Live updates: London・s Heathrow Airport closes after substation fire, upending global travel - The Washington Post
+Description: One of the world・s busiest airports will be shut down all day Friday due to a fire at a substation that supplies it with power.
+
+Title: Why Anthropic・s Claude still hasn・t beaten Pok\xe9mon - Ars Technica
+Description: Weeks later, Sonnet・s ：reasoning； model is struggling with a game designed for children.
+
+Title: Musk Tells Tesla Employees Hang On to Stock After 50%...
+2025-03-23 00:33:31,952:DEBUG:Published news part: 1023 bytes
+2025-03-23 00:33:31,953:INFO:Message with mid 16 published successfully.
+2025-03-23 00:33:31,953:DEBUG:Published news part: 1023 bytes
+2025-03-23 00:33:31,953:INFO:Message with mid 17 published successfully.
+2025-03-23 00:33:31,953:DEBUG:Published news part: 1024 bytes
+2025-03-23 00:33:31,954:INFO:Message with mid 18 published successfully.
+2025-03-23 00:33:31,954:DEBUG:Published news part: 1021 bytes
+2025-03-23 00:33:31,954:INFO:Message with mid 19 published successfully.
+2025-03-23 00:33:31,954:DEBUG:Published news part: 164 bytes
+2025-03-23 00:33:31,954:INFO:Message with mid 20 published successfully.
+2025-03-23 00:43:31,955:DEBUG:Fetching news from API
+2025-03-23 00:43:31,957:DEBUG:Starting new HTTPS connection (1): newsapi.org:443
+2025-03-23 00:43:33,723:DEBUG:https://newsapi.org:443 "GET /v2/top-headlines?country=us&apiKey=2df35e323ffa46ef8f8d555395d55c9a HTTP/1.1" 200 None
+2025-03-23 00:43:33,724:DEBUG:Fetched news content: Title: Live updates: London・s Heathrow Airport closes after substation fire, upending global travel - The Washington Post
+Description: One of the world・s busiest airports will be shut down all day Friday due to a fire at a substation that supplies it with power.
+
+Title: Why Anthropic・s Claude still hasn・t beaten Pok\xe9mon - Ars Technica
+Description: Weeks later, Sonnet・s ：reasoning； model is struggling with a game designed for children.
+
+Title: Musk Tells Tesla Employees Hang On to Stock After 50%...
+2025-03-23 00:43:33,726:DEBUG:Published news part: 1023 bytes
+2025-03-23 00:43:33,727:INFO:Message with mid 21 published successfully.
+2025-03-23 00:43:33,727:DEBUG:Published news part: 1023 bytes
+2025-03-23 00:43:33,727:INFO:Message with mid 22 published successfully.
+2025-03-23 00:43:33,728:DEBUG:Published news part: 1024 bytes
+2025-03-23 00:43:33,728:INFO:Message with mid 23 published successfully.
+2025-03-23 00:43:33,728:DEBUG:Published news part: 1021 bytes
+2025-03-23 00:43:33,728:INFO:Message with mid 24 published successfully.
+2025-03-23 00:43:33,728:DEBUG:Published news part: 164 bytes
+2025-03-23 00:43:33,729:INFO:Message with mid 25 published successfully.
+2025-03-23 00:53:33,730:DEBUG:Fetching news from API
+2025-03-23 00:53:33,734:DEBUG:Starting new HTTPS connection (1): newsapi.org:443
+2025-03-23 00:53:35,104:DEBUG:https://newsapi.org:443 "GET /v2/top-headlines?country=us&apiKey=2df35e323ffa46ef8f8d555395d55c9a HTTP/1.1" 200 None
+2025-03-23 00:53:35,105:DEBUG:Fetched news content: Title: Live updates: London・s Heathrow Airport closes after substation fire, upending global travel - The Washington Post
+Description: One of the world・s busiest airports will be shut down all day Friday due to a fire at a substation that supplies it with power.
+
+Title: Why Anthropic・s Claude still hasn・t beaten Pok\xe9mon - Ars Technica
+Description: Weeks later, Sonnet・s ：reasoning； model is struggling with a game designed for children.
+
+Title: Musk Tells Tesla Employees Hang On to Stock After 50%...
+2025-03-23 00:53:35,109:DEBUG:Published news part: 1023 bytes
+2025-03-23 00:53:35,109:DEBUG:Published news part: 1023 bytes
+2025-03-23 00:53:35,110:INFO:Message with mid 26 published successfully.
+2025-03-23 00:53:35,110:DEBUG:Published news part: 1024 bytes
+2025-03-23 00:53:35,110:INFO:Message with mid 27 published successfully.
+2025-03-23 00:53:35,111:DEBUG:Published news part: 1021 bytes
+2025-03-23 00:53:35,111:INFO:Message with mid 28 published successfully.
+2025-03-23 00:53:35,111:DEBUG:Published news part: 164 bytes
+2025-03-23 00:53:35,112:INFO:Message with mid 29 published successfully.
+2025-03-23 00:53:35,112:INFO:Message with mid 30 published successfully.
+2025-03-23 01:03:35,114:DEBUG:Fetching news from API
+2025-03-23 01:03:35,137:DEBUG:Starting new HTTPS connection (1): newsapi.org:443
+2025-03-23 01:03:36,346:DEBUG:https://newsapi.org:443 "GET /v2/top-headlines?country=us&apiKey=2df35e323ffa46ef8f8d555395d55c9a HTTP/1.1" 200 None
+2025-03-23 01:03:36,348:DEBUG:Fetched news content: Title: Live updates: London・s Heathrow Airport closes after substation fire, upending global travel - The Washington Post
+Description: One of the world・s busiest airports will be shut down all day Friday due to a fire at a substation that supplies it with power.
+
+Title: Why Anthropic・s Claude still hasn・t beaten Pok\xe9mon - Ars Technica
+Description: Weeks later, Sonnet・s ：reasoning； model is struggling with a game designed for children.
+
+Title: Musk Tells Tesla Employees Hang On to Stock After 50%...
+2025-03-23 01:03:36,355:DEBUG:Published news part: 1023 bytes
+2025-03-23 01:03:36,355:DEBUG:Published news part: 1023 bytes
+2025-03-23 01:03:36,355:DEBUG:Published news part: 1024 bytes
+2025-03-23 01:03:36,356:DEBUG:Published news part: 1021 bytes
+2025-03-23 01:03:36,356:INFO:Message with mid 31 published successfully.
+2025-03-23 01:03:36,357:INFO:Message with mid 32 published successfully.
+2025-03-23 01:03:36,357:INFO:Message with mid 33 published successfully.
+2025-03-23 01:03:36,357:INFO:Message with mid 34 published successfully.
+2025-03-23 01:03:36,357:INFO:Message with mid 35 published successfully.
+2025-03-23 01:03:36,358:DEBUG:Published news part: 164 bytes
+2025-03-23 01:13:36,358:DEBUG:Fetching news from API
+2025-03-23 01:13:36,360:DEBUG:Starting new HTTPS connection (1): newsapi.org:443
+2025-03-23 01:13:37,533:DEBUG:https://newsapi.org:443 "GET /v2/top-headlines?country=us&apiKey=2df35e323ffa46ef8f8d555395d55c9a HTTP/1.1" 200 None
+2025-03-23 01:13:37,534:DEBUG:Fetched news content: Title: Box Office: ．Snow White・ Makes $3.5 Million in Previews - Variety
+Description: 'Snow White' opens at the box office with $3.5 million in previews.
+
+Title: Elon Musk Leaves Pentagon After Discussions About China and Tech - The Wall Street Journal
+Description: None
+
+Title: Why Anthropic・s Claude still hasn・t beaten Pok\xe9mon - Ars Technica
+Description: Weeks later, Sonnet・s ：reasoning； model is struggling with a game designed for children.
+
+Title: Tesla・s CEO Elon Musk returns to rally his tr...
+2025-03-23 01:13:37,537:DEBUG:Published news part: 1018 bytes
+2025-03-23 01:13:37,537:DEBUG:Published news part: 1024 bytes
+2025-03-23 01:13:37,537:INFO:Message with mid 36 published successfully.
+2025-03-23 01:13:37,537:DEBUG:Published news part: 1021 bytes
+2025-03-23 01:13:37,537:INFO:Message with mid 37 published successfully.
+2025-03-23 01:13:37,538:DEBUG:Published news part: 290 bytes
+2025-03-23 01:13:37,538:INFO:Message with mid 38 published successfully.
+2025-03-23 01:13:37,538:INFO:Message with mid 39 published successfully.
+2025-03-23 01:23:37,538:DEBUG:Fetching news from API
+2025-03-23 01:23:37,540:DEBUG:Starting new HTTPS connection (1): newsapi.org:443
+2025-03-23 01:23:38,678:DEBUG:https://newsapi.org:443 "GET /v2/top-headlines?country=us&apiKey=2df35e323ffa46ef8f8d555395d55c9a HTTP/1.1" 200 None
+2025-03-23 01:23:38,679:DEBUG:Fetched news content: Title: Box Office: ．Snow White・ Makes $3.5 Million in Previews - Variety
+Description: 'Snow White' opens at the box office with $3.5 million in previews.
+
+Title: Elon Musk Leaves Pentagon After Discussions About China and Tech - The Wall Street Journal
+Description: None
+
+Title: Why Anthropic・s Claude still hasn・t beaten Pok\xe9mon - Ars Technica
+Description: Weeks later, Sonnet・s ：reasoning； model is struggling with a game designed for children.
+
+Title: Tesla・s CEO Elon Musk returns to rally his tr...
+2025-03-23 01:23:38,681:DEBUG:Published news part: 1018 bytes
+2025-03-23 01:23:38,681:DEBUG:Published news part: 1024 bytes
+2025-03-23 01:23:38,681:INFO:Message with mid 40 published successfully.
+2025-03-23 01:23:38,681:DEBUG:Published news part: 1021 bytes
+2025-03-23 01:23:38,681:INFO:Message with mid 41 published successfully.
+2025-03-23 01:23:38,681:DEBUG:Published news part: 290 bytes
+2025-03-23 01:23:38,682:INFO:Message with mid 42 published successfully.
+2025-03-23 01:23:38,682:INFO:Message with mid 43 published successfully.
+2025-03-23 01:33:38,683:DEBUG:Fetching news from API
+2025-03-23 01:33:38,685:DEBUG:Starting new HTTPS connection (1): newsapi.org:443
+2025-03-23 01:33:39,881:DEBUG:https://newsapi.org:443 "GET /v2/top-headlines?country=us&apiKey=2df35e323ffa46ef8f8d555395d55c9a HTTP/1.1" 200 None
+2025-03-23 01:33:39,882:DEBUG:Fetched news content: Title: Box Office: ．Snow White・ Makes $3.5 Million in Previews - Variety
+Description: 'Snow White' opens at the box office with $3.5 million in previews.
+
+Title: Elon Musk Leaves Pentagon After Discussions About China and Tech - The Wall Street Journal
+Description: None
+
+Title: Why Anthropic・s Claude still hasn・t beaten Pok\xe9mon - Ars Technica
+Description: Weeks later, Sonnet・s ：reasoning； model is struggling with a game designed for children.
+
+Title: Tesla・s CEO Elon Musk returns to rally his tr...
+2025-03-23 01:33:39,885:DEBUG:Published news part: 1018 bytes
+2025-03-23 01:33:39,886:DEBUG:Published news part: 1024 bytes
+2025-03-23 01:33:39,886:DEBUG:Published news part: 1021 bytes
+2025-03-23 01:33:39,886:DEBUG:Published news part: 290 bytes
+2025-03-23 01:33:39,886:INFO:Message with mid 44 published successfully.
+2025-03-23 01:33:39,887:INFO:Message with mid 45 published successfully.
+2025-03-23 01:33:39,887:INFO:Message with mid 46 published successfully.
+2025-03-23 01:33:39,887:INFO:Message with mid 47 published successfully.
+2025-03-23 01:43:39,887:DEBUG:Fetching news from API
+2025-03-23 01:43:39,890:DEBUG:Starting new HTTPS connection (1): newsapi.org:443
+2025-03-23 01:43:41,026:DEBUG:https://newsapi.org:443 "GET /v2/top-headlines?country=us&apiKey=2df35e323ffa46ef8f8d555395d55c9a HTTP/1.1" 200 None
+2025-03-23 01:43:41,028:DEBUG:Fetched news content: Title: Box Office: ．Snow White・ Makes $3.5 Million in Previews - Variety
+Description: 'Snow White' opens at the box office with $3.5 million in previews.
+
+Title: Elon Musk Leaves Pentagon After Discussions About China and Tech - The Wall Street Journal
+Description: None
+
+Title: Why Anthropic・s Claude still hasn・t beaten Pok\xe9mon - Ars Technica
+Description: Weeks later, Sonnet・s ：reasoning； model is struggling with a game designed for children.
+
+Title: Tesla・s CEO Elon Musk returns to rally his tr...
+2025-03-23 01:43:41,032:DEBUG:Published news part: 1018 bytes
+2025-03-23 01:43:41,033:INFO:Message with mid 48 published successfully.
+2025-03-23 01:43:41,033:INFO:Message with mid 49 published successfully.
+2025-03-23 01:43:41,033:DEBUG:Published news part: 1024 bytes
+2025-03-23 01:43:41,033:DEBUG:Published news part: 1021 bytes
+2025-03-23 01:43:41,034:INFO:Message with mid 50 published successfully.
+2025-03-23 01:43:41,034:DEBUG:Published news part: 290 bytes
+2025-03-23 01:43:41,034:INFO:Message with mid 51 published successfully.
+2025-03-23 01:53:41,035:DEBUG:Fetching news from API
+2025-03-23 01:53:41,040:DEBUG:Starting new HTTPS connection (1): newsapi.org:443
+2025-03-23 01:53:42,213:DEBUG:https://newsapi.org:443 "GET /v2/top-headlines?country=us&apiKey=2df35e323ffa46ef8f8d555395d55c9a HTTP/1.1" 200 None
+2025-03-23 01:53:42,215:DEBUG:Fetched news content: Title: Box Office: ．Snow White・ Makes $3.5 Million in Previews - Variety
+Description: 'Snow White' opens at the box office with $3.5 million in previews.
+
+Title: Elon Musk Leaves Pentagon After Discussions About China and Tech - The Wall Street Journal
+Description: None
+
+Title: Why Anthropic・s Claude still hasn・t beaten Pok\xe9mon - Ars Technica
+Description: Weeks later, Sonnet・s ：reasoning； model is struggling with a game designed for children.
+
+Title: Tesla・s CEO Elon Musk returns to rally his tr...
+2025-03-23 01:53:42,220:DEBUG:Published news part: 1018 bytes
+2025-03-23 01:53:42,220:INFO:Message with mid 52 published successfully.
+2025-03-23 01:53:42,220:DEBUG:Published news part: 1024 bytes
+2025-03-23 01:53:42,221:INFO:Message with mid 53 published successfully.
+2025-03-23 01:53:42,221:DEBUG:Published news part: 1021 bytes
+2025-03-23 01:53:42,222:DEBUG:Published news part: 290 bytes
+2025-03-23 01:53:42,222:INFO:Message with mid 54 published successfully.
+2025-03-23 01:53:42,222:INFO:Message with mid 55 published successfully.
